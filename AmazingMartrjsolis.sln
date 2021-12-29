@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "AmazingMart", "AmazingMart\AmazingMart.dtproj", "{FDD06715-98D7-48D4-A5DD-A3836AA16039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD06715-98D7-48D4-A5DD-A3836AA16039}.Development|Default.ActiveCfg = Development
+		{FDD06715-98D7-48D4-A5DD-A3836AA16039}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97BCEFA-FE7C-4F85-8DCE-F47A875E6C38}
+	EndGlobalSection
+EndGlobal

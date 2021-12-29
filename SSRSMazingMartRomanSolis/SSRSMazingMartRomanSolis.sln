@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSMazingMartRomanSolis", "SSRSMazingMartRomanSolis\SSRSMazingMartRomanSolis.rptproj", "{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Debug|Default.ActiveCfg = Debug
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Debug|Default.Build.0 = Debug
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Debug|Default.Deploy.0 = Debug
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.DebugLocal|Default.Build.0 = DebugLocal
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Release|Default.ActiveCfg = Release
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Release|Default.Build.0 = Release
+		{DC6D2F69-B6ED-46DF-B7A4-2C3D2371A516}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0223BAC2-A6AC-4390-BBFD-3BFAFF36D011}
+	EndGlobalSection
+EndGlobal
